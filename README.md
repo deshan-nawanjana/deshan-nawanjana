@@ -1,7 +1,1 @@
-<style>
-    h1 {
-        text-align: center;
-    }
-</style>
-
-<h1>Deshan Nawanjana</h1>
+<h1 style="text-align: center;">Deshan Nawanjana</h1>

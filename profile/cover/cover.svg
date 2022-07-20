@@ -1,0 +1,29 @@
+<svg
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="2754"
+    height="1096"
+    viewBox="0 0 2754 1096">
+    <rect
+        x="60"
+        y="55"
+        width="956"
+        height="1010"
+        fill="#1a1e23"
+    />
+    <image
+        x="65"
+        y="50"
+        width="946"
+        height="1000"
+        href="./cover.webp"
+    />
+    <image
+        x="0"
+        y="0"
+        width="2754"
+        height="1096"
+        href="./cover.png"
+    />
+</svg>

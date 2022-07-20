@@ -1,4 +1,4 @@
-<img src="./covers/svg/cover_1.svg">
+<img src="./profile/dist/cover.svg">
 
 [DNJS](https://dnjs.info/)
 &ensp;|&ensp;

@@ -4,15 +4,15 @@ This document contains scripts that may be useful on system reinstall or recover
 
 ## Registration Entries (.reg)
 
-- [Enable CMD in Context Menu](./reg/open_cmd_here_context_enable.reg) or [Disable CMD in Context Menu](./reg/open_cmd_here_context_disable.reg) 
+- [Enable Command Window in Context Menu](./reg/open_cmd_here_context_enable.reg) or [Disable](./reg/open_cmd_here_context_disable.reg) 
 
-- [Turn Off Windows Defender](./reg/windows_defender_disable.reg) or [Turn On Windows Defender](./reg/windows_defender_enable.reg)
+- [Turn Off Windows Defender](./reg/windows_defender_disable.reg) or [Turn On](./reg/windows_defender_enable.reg)
 
 - [Fix Windows DPI Scaling](./reg/fix_windows_dip_scaling.reg)
 
-- [Enable Windows Photo Viewer](./reg/windows_photo_viewer_enable.reg) or [Disable Windows Photo Viewer](./reg/windows_photo_viewer_disable.reg)
+- [Enable Windows Photo Viewer](./reg/windows_photo_viewer_enable.reg) or [Disable](./reg/windows_photo_viewer_disable.reg)
 
-- [Hide User Folders in Explorer](./reg/this_pc_user_folders_remove.reg) or [Show User Folders in Explorer](./reg/this_pc_user_folders_restore.reg)
+- [How User Folders in Explorer](./reg/this_pc_user_folders_remove.reg) or [Show](./reg/this_pc_user_folders_restore.reg)
 
 - [Remove Window 11 USB Devices List Duplication in Explorer](./reg/explorer_drives_duplication_remove.reg)
 

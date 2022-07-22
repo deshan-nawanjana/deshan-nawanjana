@@ -2,7 +2,7 @@
 
 Hey fella 👋😃, thank you for being here... 😊 Myself **Deshan Nawanjana**, a **Problem Solver** 💭, **Innovator** 🌟 more than a **Software Engineer** 👨🏻‍💻. I spend everyday finding new problems and try to solve and happy to share with all! 🎉🎊
 
-<details>
+<details open>
 <summary>Favorite Repositories</summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**uno.js**](https://github.com/deshan-nawanjana/uno.js) - *JavaScript Library for Arduino*<br>
@@ -14,7 +14,7 @@ Hey fella 👋😃, thank you for being here... 😊 Myself **Deshan Nawanjana**
 
 </details>
 
-<details>
+<details open>
 <summary>Other Collections</summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**datasets**](https://github.com/deshan-nawanjana/deshan-nawanjana.github.io/tree/main/datasets) - *JavaScript Object Notation (.json), Extensible Markup (.xml)*<br>

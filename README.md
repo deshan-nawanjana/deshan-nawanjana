@@ -17,8 +17,9 @@ Hey fella 👋😃, thank you for being here... 😊 Myself **Deshan Nawanjana**
 <details>
 <summary>Other Collections</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Datasets**](https://github.com/deshan-nawanjana/deshan-nawanjana/tree/main/datasets) - *Emojis, Shortcut Keys*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Scripts**](https://github.com/deshan-nawanjana/deshan-nawanjana/tree/main/scripts) - *Registration Entries (.reg), Windows Batch Files (.bat)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**datasets**](https://github.com/deshan-nawanjana/deshan-nawanjana.github.io/tree/main/datasets) - *JavaScript Object Notation (.json), Extensible Markup (.xml)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**tables**](https://github.com/deshan-nawanjana/deshan-nawanjana/tree/main/tables) - *Emojis, Shortcut Keys*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**scripts**](https://github.com/deshan-nawanjana/deshan-nawanjana/tree/main/scripts) - *Registration Entries (.reg), Windows Batch Files (.bat)*<br>
 
 </details>
 

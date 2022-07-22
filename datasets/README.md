@@ -8,3 +8,10 @@
 - [Objects](./emojies/objects.md) (255)
 - [Symbols](./emojies/symbols.md) (221)
 - [Flags](./emojies/flags.md) (269)
+
+# Shortcut Keys
+
+- [Basic](./shortcut_keys/basic.md)
+- [Microsoft Windows](./shortcut_keys/microsoft_windows.md)
+- [Microsoft Office](./shortcut_keys/microsoft_office.md)
+- [Blender](./shortcut_keys/blender.md)

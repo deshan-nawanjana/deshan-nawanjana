@@ -27,6 +27,8 @@ Hey fella... 👋😃 Thank you for being here! 😊 Myself **Deshan Nawanjana**
 &ensp;|&ensp;
 [LinkedIn](https://www.linkedin.com/in/deshan-nawanjana/)
 &ensp;|&ensp;
+[Twitter](https://twitter.com/DeshanNawanjana)
+&ensp;|&ensp;
 [GitHub](https://github.com/deshan-nawanjana)
 &ensp;|&ensp;
 [YouTube](https://www.youtube.com/channel/UCfqOF8_UTa6LhaujoFETqlQ)

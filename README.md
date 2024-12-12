@@ -15,7 +15,7 @@ Hey fella... 👋😃 Thank you for being here! 😊 Myself **[Deshan Nawanjana]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**slick-slider-react**](https://github.com/deshan-nawanjana/slick-slider-react) - *Horizontal Items Slider for React*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**codebook**](https://github.com/deshan-nawanjana/codebook) - *Interactive Markdown Compiler*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**hela-input**](https://github.com/deshan-nawanjana/hela-input) - *Sinhala Text Input and Converter*<br>
-s
+
 </details>
 
 <details open>

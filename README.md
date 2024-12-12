@@ -5,15 +5,17 @@ Hey fella... 👋😃 Thank you for being here! 😊 Myself **[Deshan Nawanjana]
 <details open>
 <summary>Favorite Repositories</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**codebook**](https://github.com/deshan-nawanjana/codebook) - *Executable and Interactive Markdown Compiler*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**uno.js**](https://github.com/deshan-nawanjana/uno.js) - *JavaScript Library for Arduino*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**graphica**](https://github.com/deshan-nawanjana/graphica) - *Online Graphic Designing Tool*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**gravity.js**](https://github.com/deshan-nawanjana/gravity.js) - *2D Game Development Library*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**glyphs**](https://github.com/deshan-nawanjana/glyphs) - *SVG Icons Library for Web Development & Graphic Designing*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**logix**](https://github.com/deshan-nawanjana/logix) - *CMOS/TTL IC Testing Device Using Arduino*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**web-magnet**](https://github.com/deshan-nawanjana/web-magnet) - *Web Content Scraping Tool Using CSS Query Selectors*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**jwt-generator**](https://github.com/deshan-nawanjana/jwt-generator) - *Token Generators and Validators for JS, PHP and Python*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**scroller.js**](https://github.com/deshan-nawanjana/scroller.js) - *Infinite Loop Item Scroller for Vanilla & ReactJS*<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**web-scratch**](https://github.com/deshan-nawanjana/web-scratch) - *Chrome Extension for Web Scraping*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**glyphs**](https://github.com/deshan-nawanjana/glyphs) - *SVG Icons Library for UI / UX*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**jwt-generator**](https://github.com/deshan-nawanjana/jwt-generator) - *JSON Web Token Generator and Validator*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**tile-quest**](https://github.com/deshan-nawanjana/tile-quest) - *Sliding Picture Puzzle Game*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**slick-slider-react**](https://github.com/deshan-nawanjana/slick-slider-react) - *Horizontal Items Slider for React*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**codebook**](https://github.com/deshan-nawanjana/codebook) - *Interactive Markdown Compiler*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**hela-input**](https://github.com/deshan-nawanjana/hela-input) - *Sinhala Text Input and Converter*<br>
+s
 </details>
 
 <details open>
@@ -25,18 +27,16 @@ Hey fella... 👋😃 Thank you for being here! 😊 Myself **[Deshan Nawanjana]
 
 </details>
 
-[DNJS](https://dnjs.info/)
+[Deshan.lk](https://deshan.lk/)
+&ensp;|&ensp;
+[Facebook](https://www.facebook.com/mr.dnjs)
 &ensp;|&ensp;
 [LinkedIn](https://www.linkedin.com/in/deshan-nawanjana/)
 &ensp;|&ensp;
 [Twitter](https://twitter.com/DeshanNawanjana)
 &ensp;|&ensp;
-[GitHub](https://github.com/deshan-nawanjana)
-&ensp;|&ensp;
 [YouTube](https://www.youtube.com/channel/UCfqOF8_UTa6LhaujoFETqlQ)
 &ensp;|&ensp;
 [Blogger](https://dn-w.blogspot.com/)
-&ensp;|&ensp;
-[Facebook](https://www.facebook.com/mr.dnjs)
 &ensp;|&ensp;
 [Gmail](mailto:deshan.uok@gmail.com)

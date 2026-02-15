@@ -1,6 +1,8 @@
 <img src="./profile/dist/cover.svg">
 
-Hey fella... 👋😃 Thank you for being here! 😊 Myself **[Deshan Nawanjana](http://deshan-nawanjana.github.io/)**, more than being a **Software Engineer** 👨🏻‍💻, I am a **Problem Solver**, a **Creator**, an **Innovator**. 🌟 I spend everyday looking for new ideas to make them work and share with you all! 🎉🎊
+Hi, I’m **[Deshan Nawanjana](http://deshan-nawanjana.github.io/)** 👋 **Software Engineer** 👨🏻‍💻, **Problem Solver** 💡, and **Creator** 🌟.
+
+I build innovative solutions, experiment with new ideas, and turn concepts into working products. Always learning. Always building. 🎉
 
 <details open>
 <summary>Favorite Repositories</summary>

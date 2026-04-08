@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "value": 10
+    },
+    {
+      "name": "HTML",
+      "value": 7
+    },
+    {
+      "name": "CSS",
+      "value": 8
+    },
+    {
+      "name": "Flutter",
+      "value": 6
+    },
+    {
+      "name": "Arduino",
+      "value": 5
+    },
+    {
+      "name": "Python",
+      "value": 4
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+@font-face {
+  font-family: "Jersey15";
+  src: url(./assets/fonts/Jersey15.ttf);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Jersey15";
+}
+
+body {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.container {
+  width: 1338px;
+  height: 532px;
+  background-color: #1c1d23;
+  background-image: url(./assets/images/octocat.webp);
+  background-position: 40px center;
+  background-repeat: no-repeat;
+  background-size: auto 80%;
+  justify-content: end;
+  border-radius: 50px;
+  display: flex;
+}
+
+.content {
+  width: 950px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: uppercase;
+  padding: 50px 0px 20px 0px;
+  color: #eaeaea;
+  letter-spacing: 4px;
+  text-shadow:
+    2px 2px 0px #333,
+    4px 4px 0px #555,
+    4px 1px 0px #222;
+  height: 100%;
+  gap: 20px;
+}
+
+.heading {
+  font-size: 40px;
+}
+
+.title {
+  font-size: 100px;
+  line-height: 60px;
+}
+
+.skills {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-right: 50px;
+  line-height: 30px;
+  font-size: 48px;
+  width: 100%;
+  gap: 8px;
+}
+
+.skill-item {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 30px;
+}
+
+.skill-name {
+  text-align: right;
+  flex: 50%;
+}
+
+.skill-value {
+  text-align: left;
+  display: flex;
+  align-items: end;
+  line-height: 6px;
+  font-size: 75px;
+  flex: 50%;
+}
+
+.skill-value .skill-star:nth-child(1) {
+  color: #f32a2a;
+}
+
+.skill-value .skill-star:nth-child(2) {
+  color: #f8c101;
+}
+
+.skill-value .skill-star:nth-child(3) {
+  color: #f5f801;
+}
+
+.skill-value .skill-star:nth-child(4) {
+  color: #2ff801;
+}
+
+.skill-value .skill-star:nth-child(5) {
+  color: #02f824;
+}
+
+.skill-value .skill-star:nth-child(6) {
+  color: #02f86f;
+}
+
+.skill-value .skill-star:nth-child(7) {
+  color: #02f8b5;
+}
+
+.skill-value .skill-star:nth-child(8) {
+  color: #02f5f8;
+}
+
+.skill-value .skill-star:nth-child(9) {
+  color: #018cf8;
+}
+
+.skill-value .skill-star:nth-child(10) {
+  color: #0135f7;
+}

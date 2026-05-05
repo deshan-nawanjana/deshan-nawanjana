@@ -15,8 +15,8 @@ I build innovative solutions, experiment with new ideas, and turn concepts into 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**slick-slider-react**](https://github.com/deshan-nawanjana/slick-slider-react) - *Horizontal Items Slider for React*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**jwt-generator**](https://github.com/deshan-nawanjana/jwt-generator) - *JSON Web Token Generator and Validator*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**substream**](https://github.com/deshan-nawanjana/substream) - *Chrome Extension to Add Subtitles to Videos*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**echo-ai**](https://github.com/deshan-nawanjana/echo-ai) - *Fast & Lightweight Model Training Platform*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**hela-input**](https://github.com/deshan-nawanjana/hela-input) - *Sinhala Text Input and Converter*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**echo-ai**](https://github.com/deshan-nawanjana/echo-ai) - *2D Game Development Library*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**glyphs**](https://github.com/deshan-nawanjana/glyphs) - *SVG Icons Library for UI / UX*<br>
 
 </details>

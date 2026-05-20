@@ -17,6 +17,7 @@ I build innovative solutions, experiment with new ideas, and turn concepts into 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**substream**](https://github.com/deshan-nawanjana/substream) - *Chrome Extension to Add Subtitles to Videos*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**echo-ai**](https://github.com/deshan-nawanjana/echo-ai) - *Fast & Lightweight Model Training Platform*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**hela-input**](https://github.com/deshan-nawanjana/hela-input) - *Sinhala Text Input and Converter*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**emojify**](https://github.com/deshan-nawanjana/emojify) - *Emoji Search & Text Enhancement Tool*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**glyphs**](https://github.com/deshan-nawanjana/glyphs) - *SVG Icons Library for UI / UX*<br>
 
 </details>
